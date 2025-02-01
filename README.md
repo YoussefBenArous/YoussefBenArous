@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 I'm a passionate  developer from Tunisia, currently exploring the world of Spring Boot and always eager to learn new technologies.
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I'm currently working on **Cours App**
 - 🌱 I'm learning **Spring Boot**
